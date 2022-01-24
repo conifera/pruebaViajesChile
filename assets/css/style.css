@@ -1,0 +1,217 @@
+html {
+    scroll-behavior: auto !important;
+}
+
+* body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+.imagen-viajes {
+    max-width: 2.5%!important;
+}
+
+.logo {
+    max-width: 50px;
+}
+
+.viajes {
+    color: white;
+    font-weight: bold;
+    
+}
+
+.link {
+  /*  font-family: 'Open Sans', sans-serif;*/
+    color: #ffffff;
+    
+}
+
+/*
+.carousel-item {
+    height: 80vh;
+    background: #777;
+    color: white;
+    position: relative;
+}
+
+.container {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+}
+*/
+
+.carousel-item {
+    height: 110vh;
+    min-height: 300px;
+    background: no-repeat scroll center scroll;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.parrafos {
+    text-align: center;
+
+
+}
+
+#quienessomos {
+    background-color: black;
+  /*  font-family: 'Open Sans', sans-serif;*/
+    color: white;
+
+}
+
+
+
+.color {
+    background-color: black;
+    padding: 10px 0;
+}
+
+.fas {
+    height: 30px;
+}
+
+.fa-plane {
+    color:white;
+    background-color: #1798c1;
+    padding-left: 140px;
+    padding-right: 140px;
+    font-size: 150%;
+    margin: 0 auto;
+    margin-right: 10px;
+}
+
+.fa-mountain {
+    color:white;
+    background-color: #1798c1;
+    padding-left: 140px;
+    padding-right: 140px;
+    font-size: 150%;
+    margin: 0 auto;
+    margin-right: 10px;
+}
+
+.fa-route {
+    color:white;
+    background-color: #1798c1;
+    padding-left: 140px;
+    padding-right: 140px;
+    font-size: 150%;
+    margin: 0 auto;
+    margin-right: 10px;
+}
+
+#destacados {
+  /*  font-family: 'Open Sans', sans-serif;*/
+    color: white;
+ /*   max-width: 30%;*/
+    background-color: black;
+
+}
+
+/*
+#destacados h3 {
+    font-size: 52px;
+}*/
+
+.tarjeta1 {
+    background: #1798c1;
+}
+
+.tarjeta2 {
+    background: #1798c1;
+    
+}
+
+.ima1 {
+    height: 150px;
+}
+
+.ima2 {
+    height: 150px;
+}
+
+.ima3 {
+    height: 150px;
+}
+
+.ima4 {
+    height: 150px;
+}
+
+.tarjeta3 {
+    background: #1798c1;
+}
+
+.tarjeta4 {
+    background: #1798c1;
+}
+
+.lorem1 {
+  /*  font-family: 'Open Sans', sans-serif;*/
+    font-size: 17px;
+    
+}
+
+.lorem2 {
+  /*  font-family: 'Open Sans', sans-serif;*/
+    font-size: 14px;
+    
+}
+
+#nombrec {
+ /*   font-family: 'Open Sans', sans-serif;*/
+ font-size: 15px;
+
+}
+
+.btn {
+    background: #1798c1;
+
+}
+
+/*Footer*/
+
+#contacto {
+    color: white;
+
+    background-color: black;
+
+}
+
+
+#foter {
+    background-color: #1798c1;
+   /* justify-content: center;*/
+    
+    
+    
+ }
+
+.viajesch {
+   /* font-family: 'Open Sans', sans-serif;*/
+   color: white;
+    font-size: 30px;
+
+}
+
+#foter a {
+    color: white;
+    text-decoration: none;
+}
+
+/*
+#footer a {
+    color: white;
+    text-decoration: none;
+    
+}*/
